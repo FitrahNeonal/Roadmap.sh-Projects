@@ -1,0 +1,2 @@
+# YOLO
+Tryna make smth
