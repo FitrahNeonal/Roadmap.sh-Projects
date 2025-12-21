@@ -1,4 +1,4 @@
 # YOLO
 Tryna make smth
 
-Project page URL : https://roadmap.sh/projects/single-page-cv
+start on 21 December 2025
