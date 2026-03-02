@@ -5,7 +5,7 @@ start on 21 December 2025
 
 # Projects List
 [Single Page CV](),[Basic HTML Website](https://roadmap.sh/projects/basic-html-website),[Personal Portfolio](https://roadmap.sh/projects/portfolio-website),
-Changelog Component, Testimonial Cards,
+[Changelog Component](https://roadmap.sh/projects/changelog-component), Testimonial Cards,
 Datepicker UI, Accessible Form UI,
 Image Grid Layout, Tooltip UI,
 Simple Tabs, Cookie Consent,
