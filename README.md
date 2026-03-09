@@ -1,8 +1,5 @@
-# gak eruh
-Tryna make smth
-
-start on 21 December 2025
-
+# better than wasting a time
+since -
 # Projects List
 [Single Page CV](),[Basic HTML Website](https://roadmap.sh/projects/basic-html-website),[Personal Portfolio](https://roadmap.sh/projects/portfolio-website),
 [Changelog Component](https://roadmap.sh/projects/changelog-component), [Testimonial Cards](https://roadmap.sh/projects/testimonial-cards),
